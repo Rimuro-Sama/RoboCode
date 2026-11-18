@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>io.github.rimuro-sama</groupId>
+  <artifactId>cleitin-o-bomdeguerra</artifactId>
+  <version>1.4</version>
+  <packaging>jar</packaging>
+  <name>Cleitin-O-BomDeGuerra</name>
+  <description>Robo de combate para Robocode: wave surfing, miras virtuais com KNN/GuessFactor e modo melee.</description>
+  <url>https://github.com/Rimuro-Sama/RoboCode</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <!-- O Robocode classico mira Java 8: o bytecode precisa ser compativel, mesmo compilando com um JDK mais novo. -->
+    <maven.compiler.release>8</maven.compiler.release>
+    <robocode.version>1.11.1</robocode.version>
+    <junit.version>5.10.2</junit.version>
+    <!-- Grupos de teste: o padrao roda so os rapidos; o perfil "benchmark" roda so as baterias longas. -->
+    <test.excludedGroups>benchmark</test.excludedGroups>
+    <test.groups/>
+    <!-- Rounds por confronto no benchmark (sobrescreva com -Dbenchmark.rounds=35). -->
+    <benchmark.rounds>20</benchmark.rounds>
+  </properties>
+
+  <dependencies>
+    <!-- API usada pelo robo (fornecida pelo Robocode em tempo de execucao). -->
+    <dependency>
+      <groupId>net.sf.robocode</groupId>
+      <artifactId>robocode.api</artifactId>
+      <version>${robocode.version}</version>
+      <scope>provided</scope>
+    </dependency>
+
+    <!-- Motor do Robocode, necessario so para rodar batalhas nos testes (sem interface grafica). -->
+    <dependency>
+      <groupId>net.sf.robocode</groupId>
+      <artifactId>robocode.core</artifactId>
+      <version>${robocode.version}</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.sf.robocode</groupId>
+      <artifactId>robocode.battle</artifactId>
+      <version>${robocode.version}</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.sf.robocode</groupId>
+      <artifactId>robocode.host</artifactId>
+      <version>${robocode.version}</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.sf.robocode</groupId>
+      <artifactId>robocode.repository</artifactId>
+      <version>${robocode.version}</version>
+      <scope>test</scope>
+    </dependency>
+    <!-- Robos de exemplo (sample.Walls, sample.SpinBot...) usados como adversarios. -->
+    <dependency>
+      <groupId>net.sf.robocode</groupId>
+      <artifactId>robocode.samples</artifactId>
+      <version>${robocode.version}</version>
+      <scope>test</scope>
+    </dependency>
+
+    <dependency>
+      <groupId>org.junit.jupiter</groupId>
+      <artifactId>junit-jupiter</artifactId>
+      <version>${junit.version}</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
+  <build>
+    <!-- Nome no formato que o Robocode espera para robos empacotados: <classe>_<versao>.jar -->
+    <finalName>cleitin.Cleitin_O_BomDeGuerra_${project.version}</finalName>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.13.0</version>
+        <configuration>
+          <compilerArgs>
+            <arg>-Xlint:all,-options</arg>
+          </compilerArgs>
+        </configuration>
+      </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-surefire-plugin</artifactId>
+        <version>3.2.5</version>
+        <configuration>
+          <excludedGroups>${test.excludedGroups}</excludedGroups>
+          <groups>${test.groups}</groups>
+          <systemPropertyVariables>
+            <benchmark.output>${project.build.directory}/benchmark</benchmark.output>
+            <benchmark.rounds>${benchmark.rounds}</benchmark.rounds>
+          </systemPropertyVariables>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+
+  <profiles>
+    <!-- mvn test -Pbenchmark : roda as baterias longas e grava target/benchmark/resultados.{md,csv} -->
+    <profile>
+      <id>benchmark</id>
+      <properties>
+        <test.excludedGroups/>
+        <test.groups>benchmark</test.groups>
+      </properties>
+    </profile>
+  </profiles>
+</project>
