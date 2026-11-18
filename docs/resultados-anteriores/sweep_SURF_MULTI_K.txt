@@ -1,0 +1,3 @@
+# sweep SURF_MULTI_K 2026-10-19T20:48:45
+SURF_MULTI_K=1 | voidious.Diamond | TOT wins=11/100 acc=8% dealt=2731 taken=3809 enemyHit=758/5995 matched=750 |  cleitin.Cleitin_O_BomDeGuerra* score= 3508 ( 26,4%) surv= 550 last= 110 bulletDmg= 2722 bonus= 127 ram= 0 1st=11 2nd=89 
+SURF_MULTI_K=6 | voidious.Diamond | TOT wins=14/100 acc=7% dealt=2717 taken=3595 enemyHit=705/5800 matched=698 |  cleitin.Cleitin_O_BomDeGuerra* score= 3714 ( 28,5%) surv= 700 last= 140 bulletDmg= 2712 bonus= 162 ram= 0 1st=14 2nd=86 

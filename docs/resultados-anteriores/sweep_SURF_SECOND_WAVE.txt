@@ -1,0 +1,5 @@
+# sweep SURF_SECOND_WAVE 2026-10-18T22:14:52
+SURF_SECOND_WAVE=0.15 | tst.SurfGF | TOT wins=100/150 acc=14% dealt=7553 taken=4906 enemyHit=727/6562 matched=720 |  lm.Apex* score= 14655 ( 64,5%) surv= 5050 last=1010 bulletDmg= 7439 bonus=1138 ram= 4 1st=101 2nd=49 
+SURF_SECOND_WAVE=0.15 | tst.Sniper | TOT wins=105/150 acc=13% dealt=6735 taken=5391 enemyHit=648/6133 matched=634 |  lm.Apex* score= 13964 ( 62,8%) surv= 5250 last=1050 bulletDmg= 6552 bonus=1033 ram= 53 1st=105 2nd=45 
+SURF_SECOND_WAVE=0.9 | tst.SurfGF | TOT wins=95/150 acc=13% dealt=7318 taken=4970 enemyHit=754/6695 matched=737 |  lm.Apex* score= 14025 ( 62,8%) surv= 4800 last= 960 bulletDmg= 7185 bonus=1080 ram= 0 1st=97 2nd=53 
+SURF_SECOND_WAVE=0.9 | tst.Sniper | TOT wins=104/150 acc=14% dealt=6899 taken=5629 enemyHit=685/6206 matched=662 |  lm.Apex* score= 14036 ( 62,3%) surv= 5200 last=1040 bulletDmg= 6739 bonus=1054 ram= 4 1st=104 2nd=46 

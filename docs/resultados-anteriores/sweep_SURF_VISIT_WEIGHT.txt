@@ -1,0 +1,4 @@
+# sweep SURF_VISIT_WEIGHT 2026-10-19T20:38:36
+SURF_VISIT_WEIGHT=0.5 | voidious.Diamond | TOT wins=15/100 acc=8% dealt=2833 taken=3785 enemyHit=702/5873 matched=698 |  cleitin.Cleitin_O_BomDeGuerra* score= 3892 ( 29,1%) surv= 750 last= 150 bulletDmg= 2820 bonus= 172 ram= 0 1st=15 2nd=85 
+SURF_VISIT_WEIGHT=8 | voidious.Diamond | TOT wins=16/100 acc=8% dealt=3063 taken=3683 enemyHit=746/6125 matched=735 |  cleitin.Cleitin_O_BomDeGuerra* score= 4177 ( 31,0%) surv= 800 last= 160 bulletDmg= 3042 bonus= 175 ram= 0 1st=16 2nd=84 
+SURF_VISIT_WEIGHT=20 | voidious.Diamond | TOT wins=11/100 acc=8% dealt=2948 taken=3868 enemyHit=756/5962 matched=748 |  cleitin.Cleitin_O_BomDeGuerra* score= 3727 ( 27,5%) surv= 550 last= 110 bulletDmg= 2945 bonus= 122 ram= 0 1st=11 2nd=89 

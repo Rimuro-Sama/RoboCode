@@ -1,0 +1,30 @@
+# seed=103 rounds=20
+duel 1 tst.Sniper 800x600 apex_1st=19/20 apex=2253 opp=559
+duel 2 tst.GravBot 600x600 apex_1st=20/20 apex=2998 opp=86
+duel 3 tst.GravBot 600x600 apex_1st=20/20 apex=2953 opp=50
+duel 4 tst.SurfGF 800x600 apex_1st=16/20 apex=2243 opp=720
+duel 5 tst.GravBot 1000x800 apex_1st=20/20 apex=3005 opp=83
+duel 6 tst.DropDodger 800x800 apex_1st=20/20 apex=2562 opp=289
+duel 7 tst.Charger 800x600 apex_1st=19/20 apex=3279 opp=669
+duel 8 tst.SurfGF 1000x800 apex_1st=14/20 apex=1846 opp=840
+duel 9 tst.SurfGF 800x800 apex_1st=15/20 apex=1924 opp=886
+duel 10 tst.Charger 800x600 apex_1st=20/20 apex=3253 opp=455
+duel 11 tst.Sniper 800x600 apex_1st=17/20 apex=2116 opp=783
+duel 12 tst.Charger 800x600 apex_1st=18/20 apex=3242 opp=1026
+duel 13 tst.GravBot 1200x900 apex_1st=20/20 apex=2947 opp=153
+duel 14 tst.Charger 600x600 apex_1st=19/20 apex=3354 opp=806
+duel 15 competicao2026.legiao_invicta 800x600 apex_1st=19/20 apex=2485 opp=441
+duel 16 tst.DropDodger 600x600 apex_1st=20/20 apex=2697 opp=343
+duel 17 tst.GravBot 600x600 apex_1st=20/20 apex=3102 opp=111
+duel 18 tst.Sniper 1000x800 apex_1st=16/20 apex=1861 opp=715
+
+RESUMO tst.DropDodger  partidas=2 rounds_ganhos=40/40 (100%)  pontos_apex=89%
+RESUMO tst.Charger  partidas=4 rounds_ganhos=76/80 (95%)  pontos_apex=82%
+RESUMO tst.GravBot  partidas=5 rounds_ganhos=100/100 (100%)  pontos_apex=97%
+RESUMO tst.SurfGF  partidas=3 rounds_ganhos=45/60 (75%)  pontos_apex=71%
+RESUMO competicao2026.legiao_invicta  partidas=1 rounds_ganhos=19/20 (95%)  pontos_apex=85%
+RESUMO tst.Sniper  partidas=3 rounds_ganhos=52/60 (87%)  pontos_apex=75%
+melee 1 [competicao2026.legiao_invicta,tst.GravBot,tst.Charger,tst.SurfGF] apex_1st=17/20 share=43%
+melee 2 [tst.Sniper,tst.GravBot,tst.SurfGF,tst.Charger,tst.DropDodger,competicao2026.legiao_invicta] apex_1st=13/20 share=31%
+melee 3 [tst.SurfGF,tst.GravBot,tst.Charger,tst.DropDodger] apex_1st=19/20 share=48%
+melee 4 [tst.Charger,tst.GravBot,tst.Sniper,competicao2026.legiao_invicta,tst.SurfGF] apex_1st=17/20 share=39%

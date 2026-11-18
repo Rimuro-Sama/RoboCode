@@ -1,0 +1,7 @@
+# sweep KNN_K 2026-10-19T10:11:15
+KNN_K=12 | tst.SurfGF | TOT wins=81/100 acc=14% dealt=5255 taken=2881 enemyHit=422/4229 matched=415 |  lm.Apex* score= 11002 ( 73,1%) surv= 4100 last= 820 bulletDmg= 5127 bonus= 904 ram= 50 1st=82 2nd=18 
+KNN_K=12 | tst.Sniper | TOT wins=83/100 acc=14% dealt=4728 taken=2965 enemyHit=368/4123 matched=359 |  lm.Apex* score= 10462 ( 72,3%) surv= 4150 last= 830 bulletDmg= 4597 bonus= 799 ram= 60 1st=84 2nd=16 
+KNN_K=12 | competicao2026.legiao_invicta | TOT wins=73/100 acc=16% dealt=5581 taken=3075 enemyHit=400/3544 matched=389 |  lm.Apex* score= 10788 ( 68,8%) surv= 3650 last= 730 bulletDmg= 5497 bonus= 911 ram= 0 1st=73 2nd=27 
+KNN_K=60 | tst.SurfGF | TOT wins=78/100 acc=14% dealt=5373 taken=3039 enemyHit=445/4251 matched=435 |  lm.Apex* score= 10847 ( 71,5%) surv= 3900 last= 780 bulletDmg= 5285 bonus= 881 ram= 1 1st=80 2nd=20 
+KNN_K=60 | tst.Sniper | TOT wins=72/100 acc=13% dealt=4467 taken=3245 enemyHit=397/4062 matched=374 |  lm.Apex* score= 9655 ( 65,9%) surv= 3700 last= 740 bulletDmg= 4386 bonus= 668 ram= 98 1st=74 2nd=26 
+KNN_K=60 | competicao2026.legiao_invicta | TOT wins=78/100 acc=16% dealt=5473 taken=2724 enemyHit=358/3552 matched=344 |  lm.Apex* score= 10968 ( 72,4%) surv= 3900 last= 780 bulletDmg= 5373 bonus= 916 ram= 0 1st=78 2nd=22 

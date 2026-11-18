@@ -1,0 +1,2 @@
+# ssweep SURF_KNN_MIN
+SURF_KNN_MIN=6 | tst.SurfGF                       rounds 157/200 (78%) pontos 72% | tst.Sniper                       rounds 167/200 (84%) pontos 74% | competicao2026.legiao_invicta    rounds 170/200 (85%) pontos 77% | TOTAL 494/600 (82%)

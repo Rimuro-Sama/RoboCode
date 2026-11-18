@@ -1,0 +1,14 @@
+DESIRED_DISTANCE=340 | tst.SurfGF | TOT wins=72/100 acc=15% enemyHit=420/3652 |  lm.Apex* score= 10348 ( 67,1%) bDmg= 5177 1st=72 2nd=28 
+DESIRED_DISTANCE=340 | tst.Sniper | TOT wins=69/100 acc=15% enemyHit=447/3651 |  lm.Apex* score= 9774 ( 63,0%) bDmg= 4824 1st=70 2nd=30 
+DESIRED_DISTANCE=340 | competicao2026.legiao_invicta | TOT wins=61/100 acc=16% enemyHit=480/3181 |  lm.Apex* score= 10034 ( 60,9%) bDmg= 5565 1st=61 2nd=39 
+DESIRED_DISTANCE=520 | tst.SurfGF | TOT wins=72/100 acc=14% enemyHit=462/4400 |  lm.Apex* score= 10063 ( 67,9%) bDmg= 4935 1st=73 2nd=27 
+DESIRED_DISTANCE=520 | tst.Sniper | TOT wins=60/100 acc=13% enemyHit=501/4107 |  lm.Apex* score= 8510 ( 56,1%) bDmg= 4312 1st=60 2nd=40 
+DESIRED_DISTANCE=520 | competicao2026.legiao_invicta | TOT wins=62/100 acc=17% enemyHit=525/3457 |  lm.Apex* score= 10092 ( 61,0%) bDmg= 5573 1st=62 2nd=38 
+restored
+SURF_HIT_WEIGHT=3 | tst.SurfGF | TOT wins=73/100 acc=14% enemyHit=488/4397 |  lm.Apex* score= 10508 ( 68,2%) bDmg= 5238 1st=74 2nd=26 
+SURF_HIT_WEIGHT=3 | tst.Sniper | TOT wins=65/100 acc=13% enemyHit=474/4195 |  lm.Apex* score= 9040 ( 59,6%) bDmg= 4486 1st=65 2nd=35 
+SURF_HIT_WEIGHT=3 | competicao2026.legiao_invicta | TOT wins=75/100 acc=18% enemyHit=521/3430 |  lm.Apex* score= 11418 ( 68,5%) bDmg= 5943 1st=75 2nd=25 
+SURF_HIT_WEIGHT=14 | tst.SurfGF | TOT wins=65/100 acc=14% enemyHit=493/4411 |  lm.Apex* score= 9636 ( 64,0%) bDmg= 5001 1st=65 2nd=35 
+SURF_HIT_WEIGHT=14 | tst.Sniper | TOT wins=75/100 acc=14% enemyHit=413/3996 |  lm.Apex* score= 9720 ( 66,1%) bDmg= 4486 1st=75 2nd=25 
+SURF_HIT_WEIGHT=14 | competicao2026.legiao_invicta | TOT wins=72/100 acc=17% enemyHit=504/3469 |  lm.Apex* score= 10916 ( 66,4%) bDmg= 5683 1st=72 2nd=28 
+restored

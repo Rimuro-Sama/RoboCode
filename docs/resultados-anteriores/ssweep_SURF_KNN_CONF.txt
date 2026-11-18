@@ -1,0 +1,3 @@
+# ssweep SURF_KNN_CONF
+SURF_KNN_CONF=25 | tst.SurfGF                       rounds 161/200 (80%) pontos 73% | tst.Sniper                       rounds 168/200 (84%) pontos 74% | competicao2026.legiao_invicta    rounds 175/200 (88%) pontos 78% | TOTAL 504/600 (84%)
+SURF_KNN_CONF=10 | tst.SurfGF                       rounds 161/200 (80%) pontos 73% | tst.Sniper                       rounds 168/200 (84%) pontos 74% | competicao2026.legiao_invicta    rounds 171/200 (86%) pontos 77% | TOTAL 500/600 (83%)

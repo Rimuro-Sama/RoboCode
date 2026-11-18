@@ -1,0 +1,4 @@
+
+tst.SurfGF  share=68,5% 1st=110  acc=14% eHit=684/6688
+tst.Sniper  share=63,2% 1st=107  acc=14% eHit=689/6256
+tst.GFBot  share=89,6% 1st=150  acc=20% eHit=425/5690

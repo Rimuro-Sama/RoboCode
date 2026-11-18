@@ -1,0 +1,9 @@
+# sweep SURF_KNN_K 2026-10-18T23:54:05
+SURF_KNN_K=12 | tst.SurfGF | TOT wins=80/100 acc=15% dealt=5439 taken=2647 enemyHit=399/4187 matched=393 |  lm.Apex* score= 11043 ( 73,8%) surv= 4000 last= 800 bulletDmg= 5336 bonus= 907 ram= 0 1st=80 2nd=20 
+SURF_KNN_K=12 | tst.Sniper | TOT wins=87/100 acc=13% dealt=4650 taken=2919 enemyHit=359/4119 matched=339 |  lm.Apex* score= 10572 ( 74,4%) surv= 4350 last= 870 bulletDmg= 4524 bonus= 826 ram= 2 1st=87 2nd=13 
+SURF_KNN_K=12 | competicao2026.legiao_invicta | TOT wins=83/100 acc=18% dealt=5838 taken=2652 enemyHit=349/3360 matched=332 |  lm.Apex* score= 11756 ( 75,6%) surv= 4150 last= 830 bulletDmg= 5746 bonus=1030 ram= 0 1st=83 2nd=17 
+SURF_KNN_K=12 | tst.GFBot | TOT wins=98/100 acc=21% dealt=6276 taken=1634 enemyHit=277/3632 matched=263 |  lm.Apex* score= 13155 ( 88,5%) surv= 4900 last= 980 bulletDmg= 6071 bonus=1204 ram= 0 1st=98 2nd= 2 
+SURF_KNN_K=48 | tst.SurfGF | TOT wins=82/100 acc=14% dealt=5319 taken=2807 enemyHit=427/4340 matched=408 |  lm.Apex* score= 11056 ( 74,3%) surv= 4100 last= 820 bulletDmg= 5219 bonus= 915 ram= 1 1st=83 2nd=17 
+SURF_KNN_K=48 | tst.Sniper | TOT wins=79/100 acc=13% dealt=4599 taken=3153 enemyHit=387/4065 matched=374 |  lm.Apex* score= 10038 ( 69,2%) surv= 3950 last= 790 bulletDmg= 4484 bonus= 763 ram= 29 1st=79 2nd=21 
+SURF_KNN_K=48 | competicao2026.legiao_invicta | TOT wins=82/100 acc=17% dealt=5776 taken=2693 enemyHit=344/3335 matched=337 |  lm.Apex* score= 11651 ( 74,9%) surv= 4100 last= 820 bulletDmg= 5700 bonus=1031 ram= 0 1st=82 2nd=18 
+SURF_KNN_K=48 | tst.GFBot | TOT wins=99/100 acc=21% dealt=6405 taken=1707 enemyHit=298/3626 matched=288 |  lm.Apex* score= 13368 ( 88,5%) surv= 4950 last= 990 bulletDmg= 6191 bonus=1237 ram= 0 1st=99 2nd= 1 

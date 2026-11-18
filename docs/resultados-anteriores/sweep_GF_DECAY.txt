@@ -1,0 +1,4 @@
+# sweep GF_DECAY 2026-10-18T21:39:22
+GF_DECAY=0.98 | v1.Apex | TOT wins=37/80 acc=11% dealt=3022 taken=3176 enemyHit=422/3497 |  lm.Apex* score= 6096 ( 52,3%) surv= 2150 last= 430 bulletDmg= 3104 bonus= 412 ram= 0 1st=43 2nd=37 
+GF_DECAY=0.992 | v1.Apex | TOT wins=43/80 acc=12% dealt=3235 taken=3110 enemyHit=418/3613 matched=410 |  lm.Apex* score= 6166 ( 52,1%) surv= 2150 last= 430 bulletDmg= 3183 bonus= 403 ram= 0 1st=43 2nd=37 
+GF_DECAY=0.998 | v1.Apex | TOT wins=28/80 acc=10% dealt=2833 taken=3382 enemyHit=472/3673 matched=464 |  lm.Apex* score= 4753 ( 40,7%) surv= 1400 last= 280 bulletDmg= 2808 bonus= 265 ram= 0 1st=28 2nd=52 

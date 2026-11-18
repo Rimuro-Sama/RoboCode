@@ -1,0 +1,7 @@
+# sweep DESIRED_DISTANCE 2026-10-18T23:47:40
+DESIRED_DISTANCE=340 | tst.SurfGF | TOT wins=72/100 acc=15% dealt=5254 taken=3310 enemyHit=420/3652 matched=407 |  lm.Apex* score= 10348 ( 67,1%) surv= 3600 last= 720 bulletDmg= 5177 bonus= 828 ram= 4 1st=72 2nd=28 
+DESIRED_DISTANCE=340 | tst.Sniper | TOT wins=69/100 acc=15% dealt=4911 taken=3862 enemyHit=447/3651 matched=429 |  lm.Apex* score= 9774 ( 63,0%) surv= 3500 last= 700 bulletDmg= 4824 bonus= 748 ram= 2 1st=70 2nd=30 
+DESIRED_DISTANCE=340 | competicao2026.legiao_invicta | TOT wins=61/100 acc=16% dealt=5644 taken=3819 enemyHit=480/3181 matched=455 |  lm.Apex* score= 10034 ( 60,9%) surv= 3050 last= 610 bulletDmg= 5565 bonus= 810 ram= 0 1st=61 2nd=39 
+DESIRED_DISTANCE=520 | tst.SurfGF | TOT wins=72/100 acc=14% dealt=5041 taken=3054 enemyHit=462/4400 matched=450 |  lm.Apex* score= 10063 ( 67,9%) surv= 3600 last= 720 bulletDmg= 4935 bonus= 809 ram= 0 1st=73 2nd=27 
+DESIRED_DISTANCE=520 | tst.Sniper | TOT wins=60/100 acc=13% dealt=4410 taken=4173 enemyHit=501/4107 matched=486 |  lm.Apex* score= 8510 ( 56,1%) surv= 3000 last= 600 bulletDmg= 4312 bonus= 597 ram= 1 1st=60 2nd=40 
+DESIRED_DISTANCE=520 | competicao2026.legiao_invicta | TOT wins=62/100 acc=17% dealt=5668 taken=3851 enemyHit=525/3457 matched=501 |  lm.Apex* score= 10092 ( 61,0%) surv= 3100 last= 620 bulletDmg= 5573 bonus= 799 ram= 0 1st=62 2nd=38 

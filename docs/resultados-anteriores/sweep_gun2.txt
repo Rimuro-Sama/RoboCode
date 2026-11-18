@@ -1,0 +1,21 @@
+AIM_TOL_PX=5 | SurfGF | acc=13% enemyHit=459/4390 | score= 9759 ( 65,7%) bDmg= 4848 1st=69 2nd=31 
+AIM_TOL_PX=5 | Sniper | acc=14% enemyHit=347/3955 | score= 10733 ( 74,9%) bDmg= 4648 1st=87 2nd=13 
+AIM_TOL_PX=5 | legiao | acc=17% enemyHit=334/3306 | score= 11768 ( 76,2%) bDmg= 5715 1st=84 2nd=16 
+AIM_TOL_PX=14 | SurfGF | acc=14% enemyHit=443/4413 | score= 9768 ( 65,2%) bDmg= 4914 1st=68 2nd=32 
+AIM_TOL_PX=14 | Sniper | acc=14% enemyHit=414/4003 | score= 10108 ( 66,8%) bDmg= 4555 1st=77 2nd=23 
+AIM_TOL_PX=14 | legiao | acc=17% enemyHit=343/3385 | score= 11772 ( 76,1%) bDmg= 5713 1st=84 2nd=16 
+restored
+GUN_DECAY=0.94 | SurfGF | acc=14% enemyHit=425/4110 | score= 10798 ( 71,0%) bDmg= 5173 1st=78 2nd=22 
+GUN_DECAY=0.94 | Sniper | acc=13% enemyHit=373/4085 | score= 9527 ( 67,2%) bDmg= 4392 1st=73 2nd=27 
+GUN_DECAY=0.94 | legiao | acc=16% enemyHit=374/3463 | score= 11010 ( 71,5%) bDmg= 5477 1st=77 2nd=23 
+GUN_DECAY=0.985 | SurfGF | acc=14% enemyHit=455/4306 | score= 9991 ( 66,1%) bDmg= 4994 1st=70 2nd=30 
+GUN_DECAY=0.985 | Sniper | acc=14% enemyHit=383/3989 | score= 10430 ( 70,8%) bDmg= 4623 1st=82 2nd=18 
+GUN_DECAY=0.985 | legiao | acc=16% enemyHit=344/3521 | score= 11444 ( 75,8%) bDmg= 5363 1st=85 2nd=15 
+restored
+KNN_K=12 | SurfGF | acc=14% enemyHit=422/4229 | score= 11002 ( 73,1%) bDmg= 5127 1st=82 2nd=18 
+KNN_K=12 | Sniper | acc=14% enemyHit=368/4123 | score= 10462 ( 72,3%) bDmg= 4597 1st=84 2nd=16 
+KNN_K=12 | legiao | acc=16% enemyHit=400/3544 | score= 10788 ( 68,8%) bDmg= 5497 1st=73 2nd=27 
+KNN_K=60 | SurfGF | acc=14% enemyHit=445/4251 | score= 10847 ( 71,5%) bDmg= 5285 1st=80 2nd=20 
+KNN_K=60 | Sniper | acc=13% enemyHit=397/4062 | score= 9655 ( 65,9%) bDmg= 4386 1st=74 2nd=26 
+KNN_K=60 | legiao | acc=16% enemyHit=358/3552 | score= 10968 ( 72,4%) bDmg= 5373 1st=78 2nd=22 
+restored

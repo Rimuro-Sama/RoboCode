@@ -1,0 +1,4 @@
+
+tst.SurfGF  share=64,9% 1st=68  acc=13% eHit=505/4537
+tst.Sniper  share=65,6% 1st=75  acc=14% eHit=427/4089
+competicao2026.legiao_invicta  share=66,1% 1st=70  acc=17% eHit=500/3414

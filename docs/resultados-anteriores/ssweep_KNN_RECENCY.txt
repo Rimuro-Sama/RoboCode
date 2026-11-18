@@ -1,0 +1,2 @@
+# ssweep KNN_RECENCY
+KNN_RECENCY=0.003 | tst.SurfGF                       rounds 164/200 (82%) pontos 75% | tst.Sniper                       rounds 175/200 (88%) pontos 76% | competicao2026.legiao_invicta    rounds 167/200 (84%) pontos 76% | TOTAL 506/600 (84%)

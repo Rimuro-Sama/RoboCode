@@ -1,0 +1,30 @@
+# seed=105 rounds=20
+duel 1 tst.Sniper 1200x900 apex_1st=15/20 apex=1884 opp=917
+duel 2 tst.SurfGF 800x800 apex_1st=12/20 apex=1723 opp=1112
+duel 3 tst.Sniper 1000x800 apex_1st=17/20 apex=1966 opp=687
+duel 4 competicao2026.legiao_invicta 800x600 apex_1st=16/20 apex=2164 opp=686
+duel 5 competicao2026.legiao_invicta 800x800 apex_1st=19/20 apex=2410 opp=479
+duel 6 tst.Sniper 600x600 apex_1st=16/20 apex=2083 opp=877
+duel 7 tst.GravBot 800x600 apex_1st=20/20 apex=2965 opp=106
+duel 8 tst.Charger 1200x900 apex_1st=20/20 apex=3314 opp=488
+duel 9 tst.SurfGF 800x600 apex_1st=16/20 apex=2172 opp=835
+duel 10 tst.Sniper 800x800 apex_1st=17/20 apex=1955 opp=742
+duel 11 tst.GravBot 1200x900 apex_1st=20/20 apex=2914 opp=108
+duel 12 tst.GravBot 1200x900 apex_1st=19/20 apex=2762 opp=158
+duel 13 competicao2026.legiao_invicta 800x600 apex_1st=17/20 apex=2281 opp=665
+duel 14 tst.DropDodger 1200x900 apex_1st=18/20 apex=2268 opp=421
+duel 15 tst.Sniper 1200x900 apex_1st=16/20 apex=1783 opp=797
+duel 16 competicao2026.legiao_invicta 800x600 apex_1st=19/20 apex=2473 opp=609
+duel 17 tst.Sniper 1200x900 apex_1st=16/20 apex=1941 opp=805
+duel 18 tst.DropDodger 1000x800 apex_1st=19/20 apex=2514 opp=373
+
+RESUMO tst.DropDodger  partidas=2 rounds_ganhos=37/40 (92%)  pontos_apex=86%
+RESUMO tst.Charger  partidas=1 rounds_ganhos=20/20 (100%)  pontos_apex=87%
+RESUMO tst.GravBot  partidas=3 rounds_ganhos=59/60 (98%)  pontos_apex=96%
+RESUMO tst.SurfGF  partidas=2 rounds_ganhos=28/40 (70%)  pontos_apex=67%
+RESUMO competicao2026.legiao_invicta  partidas=4 rounds_ganhos=71/80 (89%)  pontos_apex=79%
+RESUMO tst.Sniper  partidas=6 rounds_ganhos=97/120 (81%)  pontos_apex=71%
+melee 1 [tst.Sniper,competicao2026.legiao_invicta,tst.DropDodger] apex_1st=14/20 share=51%
+melee 2 [tst.Charger,competicao2026.legiao_invicta,tst.Sniper] apex_1st=18/20 share=52%
+melee 3 [tst.SurfGF,tst.Sniper,tst.Charger,competicao2026.legiao_invicta,tst.DropDodger] apex_1st=14/20 share=35%
+melee 4 [tst.Charger,tst.Sniper,competicao2026.legiao_invicta,tst.DropDodger] apex_1st=13/20 share=40%

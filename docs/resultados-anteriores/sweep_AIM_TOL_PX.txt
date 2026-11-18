@@ -1,0 +1,7 @@
+# sweep AIM_TOL_PX 2026-10-19T10:08:35
+AIM_TOL_PX=5 | tst.SurfGF | TOT wins=69/100 acc=13% dealt=4955 taken=3139 enemyHit=459/4390 matched=448 |  lm.Apex* score= 9759 ( 65,7%) surv= 3450 last= 690 bulletDmg= 4848 bonus= 769 ram= 2 1st=69 2nd=31 
+AIM_TOL_PX=5 | tst.Sniper | TOT wins=87/100 acc=14% dealt=4767 taken=2839 enemyHit=347/3955 matched=334 |  lm.Apex* score= 10733 ( 74,9%) surv= 4350 last= 870 bulletDmg= 4648 bonus= 865 ram= 0 1st=87 2nd=13 
+AIM_TOL_PX=5 | competicao2026.legiao_invicta | TOT wins=84/100 acc=17% dealt=5824 taken=2611 enemyHit=334/3306 matched=323 |  lm.Apex* score= 11768 ( 76,2%) surv= 4200 last= 840 bulletDmg= 5715 bonus=1013 ram= 0 1st=84 2nd=16 
+AIM_TOL_PX=14 | tst.SurfGF | TOT wins=67/100 acc=14% dealt=4986 taken=3112 enemyHit=443/4413 matched=439 |  lm.Apex* score= 9768 ( 65,2%) surv= 3400 last= 680 bulletDmg= 4914 bonus= 734 ram= 32 1st=68 2nd=32 
+AIM_TOL_PX=14 | tst.Sniper | TOT wins=77/100 acc=14% dealt=4659 taken=3361 enemyHit=414/4003 matched=405 |  lm.Apex* score= 10108 ( 66,8%) surv= 3850 last= 770 bulletDmg= 4555 bonus= 762 ram= 145 1st=77 2nd=23 
+AIM_TOL_PX=14 | competicao2026.legiao_invicta | TOT wins=84/100 acc=17% dealt=5823 taken=2614 enemyHit=343/3385 matched=327 |  lm.Apex* score= 11772 ( 76,1%) surv= 4200 last= 840 bulletDmg= 5713 bonus=1019 ram= 0 1st=84 2nd=16 

@@ -1,0 +1,52 @@
+# seed=7 rounds=20
+duel 1 tst.Charger 800x800 apex_1st=20/20 apex=3313 opp=483
+duel 2 tst.Sniper 800x600 apex_1st=16/20 apex=1930 opp=840
+duel 3 tst.Charger 1200x900 apex_1st=20/20 apex=3069 opp=413
+duel 4 tst.SurfGF 800x800 apex_1st=16/20 apex=2184 opp=808
+duel 5 competicao2026.legiao_invicta 800x800 apex_1st=18/20 apex=2349 opp=559
+duel 6 tst.Charger 800x800 apex_1st=20/20 apex=3298 opp=427
+duel 7 tst.Charger 800x600 apex_1st=20/20 apex=3378 opp=745
+duel 8 competicao2026.legiao_invicta 600x600 apex_1st=18/20 apex=2455 opp=575
+duel 9 tst.GravBot 1000x800 apex_1st=20/20 apex=2988 opp=143
+duel 10 competicao2026.legiao_invicta 800x600 apex_1st=19/20 apex=2414 opp=469
+duel 11 tst.GravBot 600x600 apex_1st=20/20 apex=2917 opp=136
+duel 12 tst.DropDodger 600x600 apex_1st=17/20 apex=2432 opp=777
+duel 13 tst.Charger 800x600 apex_1st=20/20 apex=3276 opp=414
+duel 14 competicao2026.legiao_invicta 800x600 apex_1st=16/20 apex=2271 opp=737
+duel 15 tst.Charger 1200x900 apex_1st=20/20 apex=3173 opp=288
+duel 16 tst.GravBot 1000x800 apex_1st=20/20 apex=2995 opp=76
+duel 17 tst.SurfGF 800x600 apex_1st=12/20 apex=1677 opp=944
+duel 18 tst.SurfGF 800x600 apex_1st=15/20 apex=1992 opp=867
+duel 19 tst.GravBot 800x600 apex_1st=20/20 apex=3026 opp=150
+duel 20 tst.Sniper 800x800 apex_1st=18/20 apex=2196 opp=765
+duel 21 competicao2026.legiao_invicta 1200x900 apex_1st=18/20 apex=2394 opp=472
+duel 22 tst.SurfGF 800x600 apex_1st=14/20 apex=1973 opp=980
+duel 23 tst.Sniper 800x800 apex_1st=19/20 apex=2285 opp=558
+duel 24 tst.GravBot 600x600 apex_1st=20/20 apex=2962 opp=128
+duel 25 tst.GravBot 800x600 apex_1st=20/20 apex=3027 opp=94
+duel 26 tst.DropDodger 800x800 apex_1st=20/20 apex=2713 opp=227
+duel 27 tst.GravBot 800x800 apex_1st=20/20 apex=3021 opp=101
+duel 28 tst.Sniper 800x800 apex_1st=17/20 apex=2161 opp=859
+duel 29 tst.GravBot 800x600 apex_1st=20/20 apex=3008 opp=140
+duel 30 tst.Sniper 1000x800 apex_1st=16/20 apex=2032 opp=764
+duel 31 tst.GravBot 800x600 apex_1st=20/20 apex=3038 opp=128
+duel 32 tst.Charger 800x600 apex_1st=20/20 apex=3431 opp=648
+duel 33 tst.SurfGF 800x600 apex_1st=16/20 apex=2044 opp=816
+duel 34 tst.GravBot 1000x800 apex_1st=20/20 apex=2960 opp=96
+duel 35 tst.SurfGF 800x800 apex_1st=14/20 apex=1897 opp=956
+duel 36 tst.Sniper 1200x900 apex_1st=16/20 apex=1837 opp=809
+
+RESUMO tst.DropDodger  partidas=2 rounds_ganhos=37/40 (92%)  pontos_apex=84%
+RESUMO tst.Charger  partidas=7 rounds_ganhos=140/140 (100%)  pontos_apex=87%
+RESUMO tst.GravBot  partidas=10 rounds_ganhos=200/200 (100%)  pontos_apex=96%
+RESUMO tst.SurfGF  partidas=6 rounds_ganhos=87/120 (72%)  pontos_apex=69%
+RESUMO competicao2026.legiao_invicta  partidas=5 rounds_ganhos=89/100 (89%)  pontos_apex=81%
+RESUMO tst.Sniper  partidas=6 rounds_ganhos=102/120 (85%)  pontos_apex=73%
+melee 1 [tst.Charger,tst.GravBot,tst.DropDodger,tst.Sniper,competicao2026.legiao_invicta,tst.SurfGF] apex_1st=10/20 share=29%
+melee 2 [tst.Charger,tst.SurfGF,tst.Sniper,tst.DropDodger] apex_1st=19/20 share=49%
+melee 3 [tst.SurfGF,tst.Charger,tst.Sniper,competicao2026.legiao_invicta,tst.DropDodger] apex_1st=9/20 share=31%
+melee 4 [tst.Charger,tst.SurfGF,competicao2026.legiao_invicta] apex_1st=18/20 share=53%
+melee 5 [tst.Charger,competicao2026.legiao_invicta,tst.SurfGF] apex_1st=18/20 share=51%
+melee 6 [competicao2026.legiao_invicta,tst.GravBot,tst.Charger,tst.DropDodger,tst.Sniper,tst.SurfGF] apex_1st=12/20 share=28%
+melee 7 [tst.Charger,tst.GravBot,tst.SurfGF] apex_1st=19/20 share=57%
+melee 8 [tst.GravBot,tst.Charger,competicao2026.legiao_invicta,tst.SurfGF,tst.DropDodger] apex_1st=11/20 share=32%

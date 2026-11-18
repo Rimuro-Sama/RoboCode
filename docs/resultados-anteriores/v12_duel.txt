@@ -1,0 +1,77 @@
+# v12_duel  bot=lm.Apex  rounds=60  2026-10-19T00:17:10
+[sample.SittingDuck - parado]
+== lm.Apex,sample.SittingDuck | 60 rounds | 800x600 | 1s
+  lm.Apex*                   score= 10800 (100,0%) surv= 3000 last= 600 bulletDmg= 6000 bonus=1200 ram=   0 1st=60 2nd= 0
+  sample.SittingDuck         score=     0 (  0,0%) surv=    0 last=   0 bulletDmg=    0 bonus=   0 ram=   0 1st= 0 2nd=60
+[tst.Circler - circular]
+== lm.Apex,tst.Circler | 60 rounds | 800x600 | 1s
+  lm.Apex*                   score=  9357 ( 97,9%) surv= 3000 last= 600 bulletDmg= 4769 bonus= 938 ram=  23 1st=60 2nd= 0
+  tst.Circler*               score=   196 (  2,1%) surv=    0 last=   0 bulletDmg=  173 bonus=   0 ram=  23 1st= 0 2nd=60
+[sample.Walls - paredes/longa dist]
+== lm.Apex,sample.Walls | 60 rounds | 800x600 | 2s
+  lm.Apex*                   score= 10222 ( 98,8%) surv= 3000 last= 600 bulletDmg= 5511 bonus=1103 ram=   8 1st=60 2nd= 0
+  sample.Walls               score=   124 (  1,2%) surv=    0 last=   0 bulletDmg=  120 bonus=   0 ram=   4 1st= 0 2nd=60
+[sample.SpinBot - girando agressivo]
+== lm.Apex,sample.SpinBot | 60 rounds | 800x600 | 1s
+  lm.Apex*                   score= 10177 ( 99,2%) surv= 3000 last= 600 bulletDmg= 5476 bonus=1096 ram=   5 1st=60 2nd= 0
+  sample.SpinBot             score=    81 (  0,8%) surv=    0 last=   0 bulletDmg=   80 bonus=   0 ram=   1 1st= 0 2nd=60
+[sample.Crazy - imprevisivel]
+== lm.Apex,sample.Crazy | 60 rounds | 800x600 | 2s
+  lm.Apex*                   score=  9757 ( 99,1%) surv= 3000 last= 600 bulletDmg= 5117 bonus=1025 ram=  16 1st=60 2nd= 0
+  sample.Crazy               score=    90 (  0,9%) surv=    0 last=   0 bulletDmg=   76 bonus=   0 ram=  14 1st= 0 2nd=60
+[tst.Strafer - imprevisivel+mira linear]
+== lm.Apex,tst.Strafer | 60 rounds | 800x600 | 4s
+  lm.Apex*                   score=  8414 ( 94,6%) surv= 3000 last= 600 bulletDmg= 4012 bonus= 802 ram=   0 1st=60 2nd= 0
+  tst.Strafer*               score=   480 (  5,4%) surv=    0 last=   0 bulletDmg=  480 bonus=   0 ram=   0 1st= 0 2nd=60
+[tst.GFBot - GuessFactor (forte)]
+== lm.Apex,tst.GFBot | 60 rounds | 800x600 | 4s
+  lm.Apex*                   score=  7939 ( 86,6%) surv= 2900 last= 580 bulletDmg= 3727 bonus= 732 ram=   0 1st=58 2nd= 2
+  tst.GFBot*                 score=  1226 ( 13,4%) surv=  100 last=  20 bulletDmg= 1087 bonus=  19 ram=   0 1st= 2 2nd=58
+[tst.Camper - defensivo canto]
+== lm.Apex,tst.Camper | 60 rounds | 800x600 | 1s
+  lm.Apex*                   score= 10163 ( 99,1%) surv= 3000 last= 600 bulletDmg= 5461 bonus=1093 ram=  10 1st=60 2nd= 0
+  tst.Camper*                score=    92 (  0,9%) surv=    0 last=   0 bulletDmg=   88 bonus=   0 ram=   4 1st= 0 2nd=60
+[sample.RamFire - agressivo curta dist]
+== lm.Apex,sample.RamFire | 60 rounds | 800x600 | 1s
+  lm.Apex*                   score= 10858 ( 97,1%) surv= 3000 last= 600 bulletDmg= 5991 bonus=1205 ram=  62 1st=60 2nd= 0
+  sample.RamFire             score=   326 (  2,9%) surv=    0 last=   0 bulletDmg=  276 bonus=   0 ram=  49 1st= 0 2nd=60
+[sample.Tracker - agressivo seguidor]
+== lm.Apex,sample.Tracker | 60 rounds | 800x600 | 1s
+  lm.Apex*                   score= 10681 ( 99,3%) surv= 3000 last= 600 bulletDmg= 5900 bonus=1180 ram=   1 1st=60 2nd= 0
+  sample.Tracker             score=    80 (  0,7%) surv=    0 last=   0 bulletDmg=   80 bonus=   0 ram=   0 1st= 0 2nd=60
+[sample.TrackFire - seguidor+tiro]
+== lm.Apex,sample.TrackFire | 60 rounds | 800x600 | 1s
+  lm.Apex*                   score=  9609 ( 99,3%) surv= 3000 last= 600 bulletDmg= 5005 bonus=1001 ram=   2 1st=60 2nd= 0
+  sample.TrackFire           score=    67 (  0,7%) surv=    0 last=   0 bulletDmg=   67 bonus=   0 ram=   0 1st= 0 2nd=60
+[sample.Fire - parado+gira]
+== lm.Apex,sample.Fire | 60 rounds | 800x600 | 2s
+  lm.Apex*                   score= 10545 ( 99,8%) surv= 3000 last= 600 bulletDmg= 5788 bonus=1158 ram=   0 1st=60 2nd= 0
+  sample.Fire                score=    20 (  0,2%) surv=    0 last=   0 bulletDmg=   20 bonus=   0 ram=   0 1st= 0 2nd=60
+[sample.Corners - cantos]
+== lm.Apex,sample.Corners | 60 rounds | 800x600 | 1s
+  lm.Apex*                   score= 10518 ( 99,2%) surv= 3000 last= 600 bulletDmg= 5759 bonus=1152 ram=   7 1st=60 2nd= 0
+  sample.Corners             score=    82 (  0,8%) surv=    0 last=   0 bulletDmg=   78 bonus=   0 ram=   4 1st= 0 2nd=60
+[sample.VelociRobot - velocidade]
+== lm.Apex,sample.VelociRobot | 60 rounds | 800x600 | 3s
+  lm.Apex*                   score=  9819 ( 95,5%) surv= 3000 last= 600 bulletDmg= 5183 bonus=1037 ram=   0 1st=60 2nd= 0
+  sample.VelociRobot         score=   460 (  4,5%) surv=    0 last=   0 bulletDmg=  460 bonus=   0 ram=   0 1st= 0 2nd=60
+[tst.SurfGF - FORTE surf+GF]
+== lm.Apex,tst.SurfGF | 60 rounds | 800x600 | 6s
+  lm.Apex*                   score=  6381 ( 71,0%) surv= 2300 last= 460 bulletDmg= 3098 bonus= 523 ram=   0 1st=47 2nd=13
+  tst.SurfGF*                score=  2607 ( 29,0%) surv=  650 last= 130 bulletDmg= 1717 bonus= 111 ram=   0 1st=14 2nd=46
+[tst.Sniper - FORTE longa dist]
+== lm.Apex,tst.Sniper | 60 rounds | 800x600 | 6s
+  lm.Apex*                   score=  5952 ( 68,3%) surv= 2350 last= 470 bulletDmg= 2685 bonus= 445 ram=   2 1st=47 2nd=13
+  tst.Sniper*                score=  2757 ( 31,7%) surv=  650 last= 130 bulletDmg= 1825 bonus= 111 ram=   7 1st=13 2nd=47
+[tst.Charger - FORTE agressivo]
+== lm.Apex,tst.Charger | 60 rounds | 800x600 | 1s
+  lm.Apex*                   score= 10014 ( 83,0%) surv= 2950 last= 590 bulletDmg= 5193 bonus=1044 ram= 236 1st=59 2nd= 1
+  tst.Charger*               score=  2046 ( 17,0%) surv=   50 last=  10 bulletDmg= 1581 bonus=  19 ram= 386 1st= 1 2nd=59
+[tst.DropDodger - FORTE esquiva]
+== lm.Apex,tst.DropDodger | 60 rounds | 800x600 | 4s
+  lm.Apex*                   score=  8007 ( 90,2%) surv= 3000 last= 600 bulletDmg= 3650 bonus= 732 ram=  25 1st=60 2nd= 0
+  tst.DropDodger*            score=   871 (  9,8%) surv=    0 last=   0 bulletDmg=  793 bonus=   0 ram=  78 1st= 0 2nd=60
+[tst.GravBot - FORTE antigravidade]
+== lm.Apex,tst.GravBot | 60 rounds | 800x600 | 3s
+  lm.Apex*                   score=  8957 ( 97,7%) surv= 3000 last= 600 bulletDmg= 4464 bonus= 893 ram=   0 1st=60 2nd= 0
+  tst.GravBot*               score=   208 (  2,3%) surv=    0 last=   0 bulletDmg=  208 bonus=   0 ram=   0 1st= 0 2nd=60

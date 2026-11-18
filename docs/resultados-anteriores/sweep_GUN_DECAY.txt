@@ -1,0 +1,7 @@
+# sweep GUN_DECAY 2026-10-19T10:09:55
+GUN_DECAY=0.94 | tst.SurfGF | TOT wins=78/100 acc=14% dealt=5275 taken=2938 enemyHit=425/4110 matched=412 |  lm.Apex* score= 10798 ( 71,0%) surv= 3900 last= 780 bulletDmg= 5173 bonus= 854 ram= 47 1st=78 2nd=22 
+GUN_DECAY=0.94 | tst.Sniper | TOT wins=73/100 acc=13% dealt=4492 taken=3000 enemyHit=373/4085 matched=364 |  lm.Apex* score= 9527 ( 67,2%) surv= 3650 last= 730 bulletDmg= 4392 bonus= 719 ram= 14 1st=73 2nd=27 
+GUN_DECAY=0.94 | competicao2026.legiao_invicta | TOT wins=77/100 acc=16% dealt=5574 taken=2825 enemyHit=374/3463 matched=360 |  lm.Apex* score= 11010 ( 71,5%) surv= 3850 last= 770 bulletDmg= 5477 bonus= 913 ram= 0 1st=77 2nd=23 
+GUN_DECAY=0.985 | tst.SurfGF | TOT wins=70/100 acc=14% dealt=5083 taken=3165 enemyHit=455/4306 matched=448 |  lm.Apex* score= 9991 ( 66,1%) surv= 3500 last= 700 bulletDmg= 4994 bonus= 784 ram= 13 1st=70 2nd=30 
+GUN_DECAY=0.985 | tst.Sniper | TOT wins=82/100 acc=14% dealt=4715 taken=3105 enemyHit=383/3989 matched=366 |  lm.Apex* score= 10430 ( 70,8%) surv= 4100 last= 820 bulletDmg= 4623 bonus= 825 ram= 62 1st=82 2nd=18 
+GUN_DECAY=0.985 | competicao2026.legiao_invicta | TOT wins=85/100 acc=16% dealt=5463 taken=2689 enemyHit=344/3521 matched=326 |  lm.Apex* score= 11444 ( 75,8%) surv= 4250 last= 850 bulletDmg= 5363 bonus= 982 ram= 0 1st=85 2nd=15 

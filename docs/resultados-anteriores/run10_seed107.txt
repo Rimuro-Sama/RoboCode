@@ -1,0 +1,29 @@
+# seed=107 rounds=20
+duel 1 tst.Sniper 1000x800 apex_1st=18/20 apex=2059 opp=505
+duel 2 tst.Sniper 1000x800 apex_1st=16/20 apex=1962 opp=794
+duel 3 tst.Sniper 800x600 apex_1st=18/20 apex=2132 opp=617
+duel 4 competicao2026.legiao_invicta 800x600 apex_1st=17/20 apex=2298 opp=809
+duel 5 tst.DropDodger 1200x900 apex_1st=20/20 apex=2469 opp=245
+duel 6 tst.SurfGF 800x600 apex_1st=15/20 apex=2021 opp=840
+duel 7 tst.DropDodger 800x600 apex_1st=20/20 apex=2721 opp=325
+duel 8 competicao2026.legiao_invicta 800x800 apex_1st=15/20 apex=2090 opp=819
+duel 9 competicao2026.legiao_invicta 1000x800 apex_1st=17/20 apex=2305 opp=703
+duel 10 tst.Sniper 1200x900 apex_1st=19/20 apex=2195 opp=536
+duel 11 tst.SurfGF 800x600 apex_1st=18/20 apex=2351 opp=691
+duel 12 tst.SurfGF 600x600 apex_1st=16/20 apex=2178 opp=769
+duel 13 tst.DropDodger 1000x800 apex_1st=20/20 apex=2559 opp=278
+duel 14 competicao2026.legiao_invicta 800x800 apex_1st=18/20 apex=2341 opp=591
+duel 15 tst.SurfGF 1000x800 apex_1st=17/20 apex=2316 opp=620
+duel 16 tst.GravBot 1200x900 apex_1st=20/20 apex=2907 opp=111
+duel 17 tst.DropDodger 1200x900 apex_1st=20/20 apex=2548 opp=300
+duel 18 tst.SurfGF 600x600 apex_1st=12/20 apex=2048 opp=1422
+
+RESUMO competicao2026.legiao_invicta  partidas=4 rounds_ganhos=67/80 (84%)  pontos_apex=76%
+RESUMO tst.SurfGF  partidas=5 rounds_ganhos=78/100 (78%)  pontos_apex=72%
+RESUMO tst.DropDodger  partidas=4 rounds_ganhos=80/80 (100%)  pontos_apex=90%
+RESUMO tst.Sniper  partidas=4 rounds_ganhos=71/80 (89%)  pontos_apex=77%
+RESUMO tst.GravBot  partidas=1 rounds_ganhos=20/20 (100%)  pontos_apex=96%
+melee 1 [tst.SurfGF,competicao2026.legiao_invicta,tst.GravBot,tst.Sniper,tst.DropDodger] apex_1st=16/20 share=40%
+melee 2 [tst.DropDodger,tst.Sniper,tst.SurfGF,competicao2026.legiao_invicta] apex_1st=10/20 share=37%
+melee 3 [competicao2026.legiao_invicta,tst.Charger,tst.DropDodger,tst.GravBot,tst.Sniper,tst.SurfGF] apex_1st=12/20 share=30%
+melee 4 [tst.GravBot,tst.Charger,tst.DropDodger] apex_1st=20/20 share=61%

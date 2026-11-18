@@ -1,0 +1,84 @@
+# final_all  bot=lm.Apex  rounds=35  2026-10-18T21:40:06
+[sample.SittingDuck - parado]
+== lm.Apex,sample.SittingDuck | 35 rounds | 800x600 | 0s
+  lm.Apex*                   score=  6301 (100,0%) surv= 1750 last= 350 bulletDmg= 3499 bonus= 700 ram=   2 1st=35 2nd= 0
+  sample.SittingDuck         score=     0 (  0,0%) surv=    0 last=   0 bulletDmg=    0 bonus=   0 ram=   0 1st= 0 2nd=35
+[tst.Circler - circular]
+== lm.Apex,tst.Circler | 35 rounds | 800x600 | 0s
+  lm.Apex*                   score=  5431 ( 99,3%) surv= 1750 last= 350 bulletDmg= 2776 bonus= 555 ram=   0 1st=35 2nd= 0
+  tst.Circler*               score=    40 (  0,7%) surv=    0 last=   0 bulletDmg=   33 bonus=   0 ram=   7 1st= 0 2nd=35
+[sample.Walls - paredes/longa dist]
+== lm.Apex,sample.Walls | 35 rounds | 800x600 | 0s
+  lm.Apex*                   score=  5958 ( 99,2%) surv= 1750 last= 350 bulletDmg= 3207 bonus= 642 ram=   8 1st=35 2nd= 0
+  sample.Walls               score=    46 (  0,8%) surv=    0 last=   0 bulletDmg=   40 bonus=   0 ram=   6 1st= 0 2nd=35
+[sample.SpinBot - girando agressivo]
+== lm.Apex,sample.SpinBot | 35 rounds | 800x600 | 0s
+  lm.Apex*                   score=  5889 (100,0%) surv= 1750 last= 350 bulletDmg= 3158 bonus= 632 ram=   0 1st=35 2nd= 0
+  sample.SpinBot             score=     0 (  0,0%) surv=    0 last=   0 bulletDmg=    0 bonus=   0 ram=   0 1st= 0 2nd=35
+[sample.Crazy - imprevisivel]
+== lm.Apex,sample.Crazy | 35 rounds | 800x600 | 0s
+  lm.Apex*                   score=  5758 ( 99,8%) surv= 1750 last= 350 bulletDmg= 3043 bonus= 609 ram=   6 1st=35 2nd= 0
+  sample.Crazy               score=    14 (  0,2%) surv=    0 last=   0 bulletDmg=   12 bonus=   0 ram=   2 1st= 0 2nd=35
+[tst.Strafer - imprevisivel+mira linear]
+== lm.Apex,tst.Strafer | 35 rounds | 800x600 | 1s
+  lm.Apex*                   score=  4884 ( 99,0%) surv= 1750 last= 350 bulletDmg= 2319 bonus= 464 ram=   1 1st=35 2nd= 0
+  tst.Strafer*               score=    51 (  1,0%) surv=    0 last=   0 bulletDmg=   51 bonus=   0 ram=   0 1st= 0 2nd=35
+[tst.GFBot - GuessFactor (forte)]
+== lm.Apex,tst.GFBot | 35 rounds | 800x600 | 1s
+  lm.Apex*                   score=  4442 ( 87,3%) surv= 1650 last= 330 bulletDmg= 2059 bonus= 403 ram=   0 1st=33 2nd= 2
+  tst.GFBot*                 score=   644 ( 12,7%) surv=  100 last=  20 bulletDmg=  512 bonus=  12 ram=   0 1st= 2 2nd=33
+[tst.Camper - defensivo canto]
+== lm.Apex,tst.Camper | 35 rounds | 800x600 | 0s
+  lm.Apex*                   score=  5953 ( 99,5%) surv= 1750 last= 350 bulletDmg= 3207 bonus= 642 ram=   5 1st=35 2nd= 0
+  tst.Camper*                score=    30 (  0,5%) surv=    0 last=   0 bulletDmg=   28 bonus=   0 ram=   2 1st= 0 2nd=35
+[sample.RamFire - agressivo curta dist]
+== lm.Apex,sample.RamFire | 35 rounds | 800x600 | 0s
+  lm.Apex*                   score=  6350 ( 97,3%) surv= 1750 last= 350 bulletDmg= 3506 bonus= 685 ram=  30 1st=35 2nd= 0
+  sample.RamFire             score=   178 (  2,7%) surv=    0 last=   0 bulletDmg=  144 bonus=   0 ram=  34 1st= 0 2nd=35
+[sample.Tracker - agressivo seguidor]
+== lm.Apex,sample.Tracker | 35 rounds | 800x600 | 0s
+  lm.Apex*                   score=  6242 (100,0%) surv= 1750 last= 350 bulletDmg= 3452 bonus= 690 ram=   0 1st=35 2nd= 0
+  sample.Tracker             score=     0 (  0,0%) surv=    0 last=   0 bulletDmg=    0 bonus=   0 ram=   0 1st= 0 2nd=35
+[sample.TrackFire - seguidor+tiro]
+== lm.Apex,sample.TrackFire | 35 rounds | 800x600 | 0s
+  lm.Apex*                   score=  5630 ( 99,8%) surv= 1750 last= 350 bulletDmg= 2941 bonus= 588 ram=   1 1st=35 2nd= 0
+  sample.TrackFire           score=    14 (  0,2%) surv=    0 last=   0 bulletDmg=   14 bonus=   0 ram=   0 1st= 0 2nd=35
+[sample.Fire - parado+gira]
+== lm.Apex,sample.Fire | 35 rounds | 800x600 | 0s
+  lm.Apex*                   score=  6135 ( 99,8%) surv= 1750 last= 350 bulletDmg= 3359 bonus= 672 ram=   4 1st=35 2nd= 0
+  sample.Fire                score=    12 (  0,2%) surv=    0 last=   0 bulletDmg=   12 bonus=   0 ram=   0 1st= 0 2nd=35
+[sample.Corners - cantos]
+== lm.Apex,sample.Corners | 35 rounds | 800x600 | 0s
+  lm.Apex*                   score=  6151 ( 99,3%) surv= 1750 last= 350 bulletDmg= 3376 bonus= 675 ram=   0 1st=35 2nd= 0
+  sample.Corners             score=    44 (  0,7%) surv=    0 last=   0 bulletDmg=   44 bonus=   0 ram=   0 1st= 0 2nd=35
+[sample.VelociRobot - velocidade]
+== lm.Apex,sample.VelociRobot | 35 rounds | 800x600 | 1s
+  lm.Apex*                   score=  5659 ( 97,3%) surv= 1750 last= 350 bulletDmg= 2961 bonus= 593 ram=   5 1st=35 2nd= 0
+  sample.VelociRobot         score=   157 (  2,7%) surv=    0 last=   0 bulletDmg=  143 bonus=   0 ram=  14 1st= 0 2nd=35
+[melee-5 mix]
+== lm.Apex,sample.Walls,sample.SpinBot,sample.Crazy,tst.Circler,sample.Tracker | 35 rounds | 1000x1000 | 3s
+  lm.Apex*                   score= 21643 ( 47,6%) surv= 8750 last=1750 bulletDmg= 9403 bonus=1739 ram=   1 1st=35 2nd= 0
+  sample.Walls               score=  6444 ( 14,2%) surv= 4950 last=   0 bulletDmg= 1450 bonus=  21 ram=  23 1st= 0 2nd=10
+  sample.SpinBot             score=  2135 (  4,7%) surv= 1150 last=   0 bulletDmg=  905 bonus=  29 ram=  36 1st= 0 2nd= 0
+  sample.Crazy               score=  5425 ( 11,9%) surv= 4850 last=   0 bulletDmg=  512 bonus=   1 ram=  60 1st= 0 2nd=12
+  tst.Circler*               score=  5439 ( 11,9%) surv= 2900 last=   0 bulletDmg= 2105 bonus=  72 ram= 330 1st= 0 2nd= 3
+  sample.Tracker             score=  4430 (  9,7%) surv= 3650 last=   0 bulletDmg=  754 bonus=   7 ram=  19 1st= 0 2nd=10
+[melee-10 mix]
+== lm.Apex,sample.RamFire,sample.Fire,sample.TrackFire,sample.Corners,sample.VelociRobot,sample.Walls,sample.Crazy,sample.SpinBot,tst.Strafer | 35 rounds | 1000x1000 | 6s
+  lm.Apex*                   score= 30451 ( 25,3%) surv=15600 last=3060 bulletDmg=10171 bonus=1600 ram=  20 1st=34 2nd= 0
+  sample.RamFire             score=  9578 (  7,9%) surv= 5300 last=   0 bulletDmg= 2900 bonus= 133 ram= 962 1st= 0 2nd= 3
+  sample.Fire                score=  9544 (  7,9%) surv= 7500 last=   0 bulletDmg= 1935 bonus= 100 ram=  10 1st= 0 2nd= 1
+  sample.TrackFire           score=  4141 (  3,4%) surv= 1700 last=   0 bulletDmg= 2361 bonus=  80 ram=   0 1st= 0 2nd= 0
+  sample.Corners             score=  6694 (  5,6%) surv= 4850 last=   0 bulletDmg= 1765 bonus=  70 ram=   8 1st= 0 2nd= 1
+  sample.VelociRobot         score= 11797 (  9,8%) surv= 8800 last=   0 bulletDmg= 2383 bonus=  38 ram= 576 1st= 0 2nd= 6
+  sample.Walls               score= 11604 (  9,6%) surv= 8400 last=   0 bulletDmg= 3031 bonus= 131 ram=  42 1st= 0 2nd= 8
+  sample.Crazy               score= 10570 (  8,8%) surv= 9200 last=   0 bulletDmg= 1228 bonus=   6 ram= 136 1st= 0 2nd= 3
+  sample.SpinBot             score= 11701 (  9,7%) surv= 8100 last=   0 bulletDmg= 3402 bonus= 125 ram=  73 1st= 0 2nd= 5
+  tst.Strafer*               score= 14427 ( 12,0%) surv= 9250 last=  90 bulletDmg= 4222 bonus= 355 ram= 510 1st= 1 2nd= 8
+[melee-5 fortes]
+== lm.Apex,tst.Strafer,tst.GFBot,tst.Camper,tst.Circler | 35 rounds | 1000x1000 | 3s
+  lm.Apex*                   score= 14726 ( 44,0%) surv= 6750 last=1280 bulletDmg= 5810 bonus= 886 ram=   0 1st=32 2nd= 1
+  tst.Strafer*               score=  5636 ( 16,9%) surv= 3500 last=  40 bulletDmg= 1826 bonus= 101 ram= 169 1st= 1 2nd=12
+  tst.GFBot*                 score=  6901 ( 20,6%) surv= 4200 last=  40 bulletDmg= 2235 bonus= 162 ram= 259 1st= 1 2nd=19
+  tst.Camper*                score=   949 (  2,8%) surv=  500 last=   0 bulletDmg=  438 bonus=   5 ram=   6 1st= 0 2nd= 0
+  tst.Circler*               score=  5229 ( 15,6%) surv= 2550 last=  40 bulletDmg= 2115 bonus= 111 ram= 413 1st= 1 2nd= 3

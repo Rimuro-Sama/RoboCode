@@ -1,0 +1,7 @@
+# sweep CLOSE_SCALE 2026-10-18T22:14:13
+CLOSE_SCALE=1.0 | tst.Charger | TOT wins=146/150 acc=82% dealt=14053 taken=5380 enemyHit=424/1144 matched=350 |  lm.Apex* score= 26013 ( 80,5%) surv= 7300 last=1460 bulletDmg=13925 bonus=2665 ram= 526 1st=146 2nd= 4 
+CLOSE_SCALE=1.0 | sample.RamFire | TOT wins=150/150 acc=91% dealt=15274 taken=647 enemyHit=44/75 matched=42 |  lm.Apex* score= 27166 ( 97,3%) surv= 7500 last=1500 bulletDmg=15011 bonus=2994 ram= 130 1st=150 2nd= 0 
+CLOSE_SCALE=1.3 | tst.Charger | TOT wins=147/150 acc=72% dealt=13435 taken=4534 enemyHit=376/1283 matched=297 |  lm.Apex* score= 25353 ( 82,9%) surv= 7350 last=1470 bulletDmg=13268 bonus=2485 ram= 523 1st=147 2nd= 3 
+CLOSE_SCALE=1.3 | sample.RamFire | TOT wins=150/150 acc=89% dealt=15267 taken=818 enemyHit=52/91 matched=47 |  lm.Apex* score= 27182 ( 96,7%) surv= 7500 last=1500 bulletDmg=14979 bonus=2951 ram= 161 1st=150 2nd= 0 
+CLOSE_SCALE=1.6 | tst.Charger | TOT wins=148/150 acc=68% dealt=13247 taken=3906 enemyHit=321/1355 matched=249 |  lm.Apex* score= 24842 ( 85,5%) surv= 7400 last=1480 bulletDmg=13014 bonus=2542 ram= 314 1st=148 2nd= 2 
+CLOSE_SCALE=1.6 | sample.RamFire | TOT wins=150/150 acc=90% dealt=15350 taken=935 enemyHit=61/85 matched=54 |  lm.Apex* score= 27284 ( 96,3%) surv= 7500 last=1500 bulletDmg=15031 bonus=2962 ram= 196 1st=150 2nd= 0 

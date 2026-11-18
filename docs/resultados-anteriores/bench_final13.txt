@@ -1,0 +1,9 @@
+
+tst.SurfGF  share=68,4% 1st=44  acc=14% eHit=248/2498
+tst.Sniper  share=72,0% 1st=48  acc=13% eHit=202/2504
+competicao2026.legiao_invicta  share=81,6% 1st=56  acc=17% eHit=195/2062
+tst.Charger  share=85,8% 1st=60  acc=71% eHit=125/526
+tst.GravBot  share=96,6% 1st=60  acc=32% eHit=51/1064
+tst.DropDodger  share=87,4% 1st=57  acc=22% eHit=122/1872
+sample.Walls  share=99,5% 1st=60  acc=52% eHit=4/260
+sample.SittingDuck  share=100,0% 1st=60  acc=82% eHit=0/0

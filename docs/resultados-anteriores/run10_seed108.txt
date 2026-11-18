@@ -1,0 +1,30 @@
+# seed=108 rounds=20
+duel 1 tst.SurfGF 600x600 apex_1st=17/20 apex=2198 opp=732
+duel 2 tst.DropDodger 1200x900 apex_1st=20/20 apex=2481 opp=238
+duel 3 competicao2026.legiao_invicta 800x800 apex_1st=16/20 apex=2233 opp=672
+duel 4 tst.DropDodger 1200x900 apex_1st=20/20 apex=2587 opp=216
+duel 5 tst.Charger 800x600 apex_1st=20/20 apex=3347 opp=514
+duel 6 competicao2026.legiao_invicta 1200x900 apex_1st=18/20 apex=2366 opp=479
+duel 7 competicao2026.legiao_invicta 1200x900 apex_1st=17/20 apex=2329 opp=692
+duel 8 tst.Sniper 600x600 apex_1st=17/20 apex=2150 opp=859
+duel 9 tst.DropDodger 800x800 apex_1st=20/20 apex=2577 opp=272
+duel 10 tst.Sniper 800x600 apex_1st=17/20 apex=2015 opp=777
+duel 11 tst.DropDodger 1000x800 apex_1st=20/20 apex=2552 opp=244
+duel 12 tst.DropDodger 1200x900 apex_1st=20/20 apex=2373 opp=313
+duel 13 tst.DropDodger 800x800 apex_1st=19/20 apex=2452 opp=441
+duel 14 tst.GravBot 1200x900 apex_1st=20/20 apex=2835 opp=97
+duel 15 tst.Charger 800x600 apex_1st=20/20 apex=3268 opp=528
+duel 16 tst.SurfGF 800x800 apex_1st=16/20 apex=2217 opp=779
+duel 17 tst.GravBot 1200x900 apex_1st=20/20 apex=3020 opp=87
+duel 18 tst.Charger 600x600 apex_1st=20/20 apex=3477 opp=712
+
+RESUMO tst.DropDodger  partidas=6 rounds_ganhos=119/120 (99%)  pontos_apex=90%
+RESUMO tst.Charger  partidas=3 rounds_ganhos=60/60 (100%)  pontos_apex=85%
+RESUMO tst.GravBot  partidas=2 rounds_ganhos=40/40 (100%)  pontos_apex=97%
+RESUMO tst.SurfGF  partidas=2 rounds_ganhos=33/40 (82%)  pontos_apex=75%
+RESUMO competicao2026.legiao_invicta  partidas=3 rounds_ganhos=51/60 (85%)  pontos_apex=79%
+RESUMO tst.Sniper  partidas=2 rounds_ganhos=34/40 (85%)  pontos_apex=72%
+melee 1 [tst.Charger,tst.Sniper,tst.GravBot,tst.DropDodger] apex_1st=18/20 share=50%
+melee 2 [tst.Charger,tst.Sniper,competicao2026.legiao_invicta,tst.GravBot] apex_1st=16/20 share=45%
+melee 3 [tst.DropDodger,competicao2026.legiao_invicta,tst.SurfGF,tst.Charger,tst.GravBot,tst.Sniper] apex_1st=17/20 share=35%
+melee 4 [tst.Charger,tst.GravBot,competicao2026.legiao_invicta,tst.SurfGF] apex_1st=17/20 share=43%

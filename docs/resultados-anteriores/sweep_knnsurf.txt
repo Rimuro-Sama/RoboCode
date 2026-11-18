@@ -1,0 +1,18 @@
+SURF_KNN_WEIGHT=12 | tst.SurfGF | TOT wins=73/100 acc=14% enemyHit=457/4121 |  lm.Apex* score= 10302 ( 67,5%) bDmg= 5017 1st=73 2nd=27 
+SURF_KNN_WEIGHT=12 | tst.Sniper | TOT wins=86/100 acc=14% enemyHit=352/3863 |  lm.Apex* score= 10900 ( 73,9%) bDmg= 4709 1st=86 2nd=14 
+SURF_KNN_WEIGHT=12 | competicao2026.legiao_invicta | TOT wins=80/100 acc=17% enemyHit=370/3330 |  lm.Apex* score= 11570 ( 73,8%) bDmg= 5754 1st=80 2nd=20 
+SURF_KNN_WEIGHT=12 | tst.GFBot | TOT wins=100/100 acc=23% enemyHit=302/3415 |  lm.Apex* score= 13786 ( 88,8%) bDmg= 6488 1st=100 2nd= 0 
+SURF_KNN_WEIGHT=24 | tst.SurfGF | TOT wins=69/100 acc=14% enemyHit=454/4156 |  lm.Apex* score= 10286 ( 66,7%) bDmg= 5219 1st=70 2nd=30 
+SURF_KNN_WEIGHT=24 | tst.Sniper | TOT wins=74/100 acc=14% enemyHit=422/3983 |  lm.Apex* score= 9902 ( 65,9%) bDmg= 4566 1st=74 2nd=26 
+SURF_KNN_WEIGHT=24 | competicao2026.legiao_invicta | TOT wins=79/100 acc=17% enemyHit=400/3368 |  lm.Apex* score= 11485 ( 71,5%) bDmg= 5768 1st=79 2nd=21 
+SURF_KNN_WEIGHT=24 | tst.GFBot | TOT wins=96/100 acc=20% enemyHit=351/3750 |  lm.Apex* score= 13097 ( 85,3%) bDmg= 6143 1st=96 2nd= 4 
+restored
+SURF_KNN_K=12 | tst.SurfGF | TOT wins=80/100 acc=15% enemyHit=399/4187 |  lm.Apex* score= 11043 ( 73,8%) bDmg= 5336 1st=80 2nd=20 
+SURF_KNN_K=12 | tst.Sniper | TOT wins=87/100 acc=13% enemyHit=359/4119 |  lm.Apex* score= 10572 ( 74,4%) bDmg= 4524 1st=87 2nd=13 
+SURF_KNN_K=12 | competicao2026.legiao_invicta | TOT wins=83/100 acc=18% enemyHit=349/3360 |  lm.Apex* score= 11756 ( 75,6%) bDmg= 5746 1st=83 2nd=17 
+SURF_KNN_K=12 | tst.GFBot | TOT wins=98/100 acc=21% enemyHit=277/3632 |  lm.Apex* score= 13155 ( 88,5%) bDmg= 6071 1st=98 2nd= 2 
+SURF_KNN_K=48 | tst.SurfGF | TOT wins=82/100 acc=14% enemyHit=427/4340 |  lm.Apex* score= 11056 ( 74,3%) bDmg= 5219 1st=83 2nd=17 
+SURF_KNN_K=48 | tst.Sniper | TOT wins=79/100 acc=13% enemyHit=387/4065 |  lm.Apex* score= 10038 ( 69,2%) bDmg= 4484 1st=79 2nd=21 
+SURF_KNN_K=48 | competicao2026.legiao_invicta | TOT wins=82/100 acc=17% enemyHit=344/3335 |  lm.Apex* score= 11651 ( 74,9%) bDmg= 5700 1st=82 2nd=18 
+SURF_KNN_K=48 | tst.GFBot | TOT wins=99/100 acc=21% enemyHit=298/3626 |  lm.Apex* score= 13368 ( 88,5%) bDmg= 6191 1st=99 2nd= 1 
+restored

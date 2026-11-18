@@ -1,0 +1,7 @@
+# sweep SURF_PRIOR_WEIGHT 2026-10-18T21:04:42
+SURF_PRIOR_WEIGHT=0 | tst.GFBot | TOT wins=99/100 acc=21% dealt=6276 taken=1477 enemyHit=267/3668 matched=255 |  lm.Apex* score= 13208 ( 89,8%) surv= 4950 last= 990 bulletDmg= 6063 bonus=1205 ram= 0 1st=99 2nd= 1 
+SURF_PRIOR_WEIGHT=0 | tst.Strafer | TOT wins=100/100 acc=24% dealt=6642 taken=185 enemyHit=37/2964 matched=24 |  lm.Apex* score= 13740 ( 99,0%) surv= 5000 last=1000 bulletDmg= 6449 bonus=1290 ram= 1 1st=100 2nd= 0 
+SURF_PRIOR_WEIGHT=1.6 | tst.GFBot | TOT wins=100/100 acc=19% dealt=6021 taken=1646 enemyHit=289/3956 matched=275 |  lm.Apex* score= 12984 ( 89,0%) surv= 5000 last=1000 bulletDmg= 5820 bonus=1164 ram= 0 1st=100 2nd= 0 
+SURF_PRIOR_WEIGHT=1.6 | tst.Strafer | TOT wins=100/100 acc=24% dealt=6676 taken=84 enemyHit=19/2933 matched=17 |  lm.Apex* score= 13762 ( 99,4%) surv= 5000 last=1000 bulletDmg= 6468 bonus=1294 ram= 0 1st=100 2nd= 0 
+SURF_PRIOR_WEIGHT=4 | tst.GFBot | TOT wins=100/100 acc=21% dealt=6274 taken=1552 enemyHit=275/3687 matched=256 |  lm.Apex* score= 13292 ( 89,9%) surv= 5000 last=1000 bulletDmg= 6076 bonus=1215 ram= 0 1st=100 2nd= 0 
+SURF_PRIOR_WEIGHT=4 | tst.Strafer | TOT wins=100/100 acc=24% dealt=6639 taken=108 enemyHit=19/2990 matched=15 |  lm.Apex* score= 13696 ( 99,3%) surv= 5000 last=1000 bulletDmg= 6414 bonus=1283 ram= 0 1st=100 2nd= 0 

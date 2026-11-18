@@ -1,0 +1,5 @@
+# sweep HARD_POWER_CAP 2026-10-18T22:13:09
+HARD_POWER_CAP=2.0 | tst.SurfGF | TOT wins=104/150 acc=14% dealt=7524 taken=4983 enemyHit=744/6767 matched=726 |  lm.Apex* score= 14820 ( 65,3%) surv= 5200 last=1040 bulletDmg= 7408 bonus=1168 ram= 5 1st=104 2nd=46 
+HARD_POWER_CAP=2.0 | tst.Sniper | TOT wins=107/150 acc=13% dealt=6674 taken=5474 enemyHit=666/6202 matched=654 |  lm.Apex* score= 14136 ( 62,8%) surv= 5350 last=1070 bulletDmg= 6548 bonus=1035 ram= 108 1st=107 2nd=43 
+HARD_POWER_CAP=1.4 | tst.SurfGF | TOT wins=98/150 acc=13% dealt=7232 taken=5329 enemyHit=797/6784 matched=774 |  lm.Apex* score= 14112 ( 61,9%) surv= 4900 last= 980 bulletDmg= 7100 bonus=1082 ram= 50 1st=98 2nd=52 
+HARD_POWER_CAP=1.4 | tst.Sniper | TOT wins=100/150 acc=13% dealt=6577 taken=5806 enemyHit=698/6263 matched=673 |  lm.Apex* score= 13527 ( 60,5%) surv= 5050 last=1010 bulletDmg= 6418 bonus= 960 ram= 53 1st=102 2nd=48 

@@ -1,0 +1,7 @@
+# sweep SURF_HIT_WEIGHT 2026-10-18T23:49:01
+SURF_HIT_WEIGHT=3 | tst.SurfGF | TOT wins=73/100 acc=14% dealt=5328 taken=3185 enemyHit=488/4397 matched=478 |  lm.Apex* score= 10508 ( 68,2%) surv= 3650 last= 730 bulletDmg= 5238 bonus= 839 ram= 50 1st=74 2nd=26 
+SURF_HIT_WEIGHT=3 | tst.Sniper | TOT wins=65/100 acc=13% dealt=4572 taken=3923 enemyHit=474/4195 matched=461 |  lm.Apex* score= 9040 ( 59,6%) surv= 3250 last= 650 bulletDmg= 4486 bonus= 653 ram= 1 1st=65 2nd=35 
+SURF_HIT_WEIGHT=3 | competicao2026.legiao_invicta | TOT wins=75/100 acc=18% dealt=6015 taken=3595 enemyHit=521/3430 matched=488 |  lm.Apex* score= 11418 ( 68,5%) surv= 3750 last= 750 bulletDmg= 5943 bonus= 975 ram= 0 1st=75 2nd=25 
+SURF_HIT_WEIGHT=14 | tst.SurfGF | TOT wins=65/100 acc=14% dealt=5091 taken=3208 enemyHit=493/4411 matched=482 |  lm.Apex* score= 9636 ( 64,0%) surv= 3250 last= 650 bulletDmg= 5001 bonus= 735 ram= 0 1st=65 2nd=35 
+SURF_HIT_WEIGHT=14 | tst.Sniper | TOT wins=75/100 acc=14% dealt=4599 taken=3428 enemyHit=413/3996 matched=395 |  lm.Apex* score= 9720 ( 66,1%) surv= 3750 last= 750 bulletDmg= 4486 bonus= 731 ram= 2 1st=75 2nd=25 
+SURF_HIT_WEIGHT=14 | competicao2026.legiao_invicta | TOT wins=72/100 acc=17% dealt=5753 taken=3604 enemyHit=504/3469 matched=480 |  lm.Apex* score= 10916 ( 66,4%) surv= 3600 last= 720 bulletDmg= 5683 bonus= 913 ram= 0 1st=72 2nd=28 

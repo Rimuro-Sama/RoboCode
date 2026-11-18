@@ -1,0 +1,3 @@
+# msweep MELEE_POWER_CAP
+MELEE_POWER_CAP=1.7 | A6 apex_share=31% 1st=67/100 | B4 apex_share=37% 1st=57/100 | C8 apex_share=25% 1st=69/100
+MELEE_POWER_CAP=3.0 | A6 apex_share=33% 1st=71/100 | B4 apex_share=38% 1st=59/100 | C8 apex_share=25% 1st=64/100

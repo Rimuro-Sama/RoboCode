@@ -1,0 +1,5 @@
+# sweep SURF_HYSTERESIS 2026-10-18T22:15:50
+SURF_HYSTERESIS=0.0 | tst.SurfGF | TOT wins=102/150 acc=13% dealt=7750 taken=4876 enemyHit=750/6817 matched=736 |  lm.Apex* score= 14951 ( 65,8%) surv= 5100 last=1020 bulletDmg= 7645 bonus=1182 ram= 4 1st=104 2nd=46 
+SURF_HYSTERESIS=0.0 | tst.Sniper | TOT wins=113/150 acc=14% dealt=6938 taken=5152 enemyHit=627/6043 matched=608 |  lm.Apex* score= 14642 ( 66,3%) surv= 5650 last=1130 bulletDmg= 6753 bonus=1106 ram= 2 1st=113 2nd=37 
+SURF_HYSTERESIS=0.12 | tst.SurfGF | TOT wins=102/150 acc=14% dealt=7558 taken=4971 enemyHit=735/6551 matched=725 |  lm.Apex* score= 14733 ( 64,9%) surv= 5100 last=1020 bulletDmg= 7436 bonus=1177 ram= 0 1st=103 2nd=47 
+SURF_HYSTERESIS=0.12 | tst.Sniper | TOT wins=102/150 acc=13% dealt=6779 taken=5675 enemyHit=685/6188 matched=664 |  lm.Apex* score= 13826 ( 61,6%) surv= 5150 last=1030 bulletDmg= 6616 bonus=1013 ram= 5 1st=103 2nd=47 

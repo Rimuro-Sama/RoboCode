@@ -1,0 +1,3 @@
+# msweep MELEE_PREF_DIST
+MELEE_PREF_DIST=260 | A6 apex_share=33% 1st=72/100 | B4 apex_share=38% 1st=55/100 | C8 apex_share=26% 1st=68/100
+MELEE_PREF_DIST=500 | A6 apex_share=31% 1st=76/100 | B4 apex_share=36% 1st=59/100 | C8 apex_share=24% 1st=69/100

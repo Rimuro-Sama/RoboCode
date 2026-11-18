@@ -1,0 +1,30 @@
+# seed=109 rounds=20
+duel 1 tst.GravBot 1200x900 apex_1st=20/20 apex=2941 opp=121
+duel 2 competicao2026.legiao_invicta 800x800 apex_1st=18/20 apex=2325 opp=611
+duel 3 tst.Charger 800x800 apex_1st=20/20 apex=3382 opp=678
+duel 4 tst.GravBot 800x600 apex_1st=20/20 apex=2973 opp=70
+duel 5 tst.Charger 600x600 apex_1st=20/20 apex=3374 opp=580
+duel 6 tst.Sniper 600x600 apex_1st=13/20 apex=1781 opp=1135
+duel 7 tst.Sniper 800x600 apex_1st=16/20 apex=2053 opp=877
+duel 8 tst.DropDodger 800x600 apex_1st=20/20 apex=2730 opp=205
+duel 9 tst.GravBot 600x600 apex_1st=20/20 apex=2959 opp=124
+duel 10 tst.Sniper 600x600 apex_1st=18/20 apex=2227 opp=639
+duel 11 tst.DropDodger 600x600 apex_1st=20/20 apex=2687 opp=370
+duel 12 tst.Charger 800x600 apex_1st=19/20 apex=3301 opp=858
+duel 13 tst.Charger 1200x900 apex_1st=20/20 apex=3232 opp=337
+duel 14 tst.Sniper 1000x800 apex_1st=18/20 apex=2130 opp=550
+duel 15 tst.Sniper 800x800 apex_1st=14/20 apex=1902 opp=956
+duel 16 tst.Charger 800x600 apex_1st=20/20 apex=3381 opp=526
+duel 17 tst.SurfGF 1200x900 apex_1st=14/20 apex=2088 opp=939
+duel 18 tst.GravBot 600x600 apex_1st=20/20 apex=2977 opp=133
+
+RESUMO tst.DropDodger  partidas=2 rounds_ganhos=40/40 (100%)  pontos_apex=90%
+RESUMO tst.Charger  partidas=5 rounds_ganhos=99/100 (99%)  pontos_apex=85%
+RESUMO tst.GravBot  partidas=4 rounds_ganhos=80/80 (100%)  pontos_apex=96%
+RESUMO tst.SurfGF  partidas=1 rounds_ganhos=14/20 (70%)  pontos_apex=69%
+RESUMO competicao2026.legiao_invicta  partidas=1 rounds_ganhos=18/20 (90%)  pontos_apex=79%
+RESUMO tst.Sniper  partidas=5 rounds_ganhos=79/100 (79%)  pontos_apex=71%
+melee 1 [tst.DropDodger,tst.Sniper,competicao2026.legiao_invicta,tst.SurfGF] apex_1st=10/20 share=36%
+melee 2 [tst.Sniper,tst.SurfGF,tst.Charger,competicao2026.legiao_invicta,tst.DropDodger] apex_1st=11/20 share=31%
+melee 3 [tst.Sniper,tst.GravBot,competicao2026.legiao_invicta] apex_1st=16/20 share=53%
+melee 4 [tst.Charger,tst.SurfGF,tst.GravBot,tst.Sniper,competicao2026.legiao_invicta,tst.DropDodger] apex_1st=12/20 share=31%

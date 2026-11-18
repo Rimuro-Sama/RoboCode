@@ -1,0 +1,30 @@
+# seed=102 rounds=20
+duel 1 tst.SurfGF 1200x900 apex_1st=18/20 apex=2224 opp=525
+duel 2 tst.SurfGF 1000x800 apex_1st=18/20 apex=2330 opp=649
+duel 3 tst.DropDodger 1200x900 apex_1st=20/20 apex=2460 opp=192
+duel 4 tst.Sniper 1200x900 apex_1st=15/20 apex=1898 opp=801
+duel 5 tst.Sniper 800x800 apex_1st=19/20 apex=2208 opp=494
+duel 6 tst.Charger 800x600 apex_1st=19/20 apex=3465 opp=1018
+duel 7 tst.GravBot 600x600 apex_1st=20/20 apex=2897 opp=76
+duel 8 tst.Charger 1200x900 apex_1st=20/20 apex=3196 opp=300
+duel 9 tst.GravBot 1000x800 apex_1st=20/20 apex=2974 opp=100
+duel 10 tst.Charger 800x800 apex_1st=20/20 apex=3296 opp=445
+duel 11 tst.Charger 800x800 apex_1st=20/20 apex=3290 opp=503
+duel 12 tst.DropDodger 1200x900 apex_1st=20/20 apex=2499 opp=257
+duel 13 tst.GravBot 800x600 apex_1st=20/20 apex=2984 opp=100
+duel 14 tst.Sniper 800x800 apex_1st=16/20 apex=1933 opp=816
+duel 15 tst.GravBot 1000x800 apex_1st=20/20 apex=2937 opp=95
+duel 16 competicao2026.legiao_invicta 1000x800 apex_1st=17/20 apex=2270 opp=631
+duel 17 tst.DropDodger 600x600 apex_1st=19/20 apex=2636 opp=425
+duel 18 tst.DropDodger 800x600 apex_1st=20/20 apex=2668 opp=236
+
+RESUMO tst.DropDodger  partidas=4 rounds_ganhos=79/80 (99%)  pontos_apex=90%
+RESUMO tst.Charger  partidas=4 rounds_ganhos=79/80 (99%)  pontos_apex=85%
+RESUMO tst.GravBot  partidas=4 rounds_ganhos=80/80 (100%)  pontos_apex=97%
+RESUMO tst.SurfGF  partidas=2 rounds_ganhos=36/40 (90%)  pontos_apex=80%
+RESUMO competicao2026.legiao_invicta  partidas=1 rounds_ganhos=17/20 (85%)  pontos_apex=78%
+RESUMO tst.Sniper  partidas=3 rounds_ganhos=50/60 (83%)  pontos_apex=74%
+melee 1 [tst.GravBot,competicao2026.legiao_invicta,tst.Sniper,tst.DropDodger,tst.Charger] apex_1st=12/20 share=32%
+melee 2 [tst.Charger,tst.Sniper,tst.GravBot,tst.DropDodger,tst.SurfGF,competicao2026.legiao_invicta] apex_1st=14/20 share=31%
+melee 3 [tst.GravBot,tst.Charger,competicao2026.legiao_invicta,tst.Sniper] apex_1st=8/20 share=37%
+melee 4 [tst.Charger,tst.DropDodger,competicao2026.legiao_invicta,tst.SurfGF] apex_1st=9/20 share=37%

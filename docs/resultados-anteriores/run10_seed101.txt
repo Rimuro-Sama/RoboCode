@@ -1,0 +1,30 @@
+# seed=101 rounds=20
+duel 1 tst.Charger 600x600 apex_1st=19/20 apex=3339 opp=996
+duel 2 tst.Charger 800x600 apex_1st=20/20 apex=3288 opp=538
+duel 3 tst.GravBot 800x800 apex_1st=19/20 apex=2929 opp=217
+duel 4 tst.SurfGF 800x600 apex_1st=16/20 apex=2248 opp=903
+duel 5 tst.Charger 600x600 apex_1st=20/20 apex=3379 opp=648
+duel 6 tst.GravBot 1000x800 apex_1st=20/20 apex=3030 opp=147
+duel 7 tst.SurfGF 800x600 apex_1st=15/20 apex=2072 opp=834
+duel 8 tst.GravBot 800x600 apex_1st=20/20 apex=2943 opp=34
+duel 9 tst.DropDodger 1200x900 apex_1st=20/20 apex=2508 opp=329
+duel 10 tst.Charger 600x600 apex_1st=19/20 apex=3343 opp=958
+duel 11 tst.DropDodger 1200x900 apex_1st=20/20 apex=2439 opp=259
+duel 12 tst.SurfGF 1000x800 apex_1st=17/20 apex=2246 opp=660
+duel 13 tst.Sniper 600x600 apex_1st=15/20 apex=1997 opp=859
+duel 14 tst.GravBot 1000x800 apex_1st=20/20 apex=3010 opp=111
+duel 15 tst.Charger 600x600 apex_1st=20/20 apex=3357 opp=491
+duel 16 tst.Charger 800x600 apex_1st=20/20 apex=3335 opp=550
+duel 17 competicao2026.legiao_invicta 600x600 apex_1st=17/20 apex=2296 opp=719
+duel 18 competicao2026.legiao_invicta 800x600 apex_1st=16/20 apex=2253 opp=789
+
+RESUMO tst.DropDodger  partidas=2 rounds_ganhos=40/40 (100%)  pontos_apex=89%
+RESUMO tst.Charger  partidas=6 rounds_ganhos=118/120 (98%)  pontos_apex=83%
+RESUMO tst.GravBot  partidas=4 rounds_ganhos=79/80 (99%)  pontos_apex=96%
+RESUMO tst.SurfGF  partidas=3 rounds_ganhos=48/60 (80%)  pontos_apex=73%
+RESUMO competicao2026.legiao_invicta  partidas=2 rounds_ganhos=33/40 (82%)  pontos_apex=75%
+RESUMO tst.Sniper  partidas=1 rounds_ganhos=15/20 (75%)  pontos_apex=70%
+melee 1 [tst.Sniper,tst.SurfGF,tst.Charger,tst.DropDodger,tst.GravBot] apex_1st=18/20 share=43%
+melee 2 [tst.GravBot,tst.Sniper,tst.SurfGF,competicao2026.legiao_invicta,tst.Charger] apex_1st=15/20 share=38%
+melee 3 [tst.DropDodger,tst.Charger,tst.SurfGF] apex_1st=19/20 share=58%
+melee 4 [competicao2026.legiao_invicta,tst.Charger,tst.DropDodger] apex_1st=13/20 share=48%

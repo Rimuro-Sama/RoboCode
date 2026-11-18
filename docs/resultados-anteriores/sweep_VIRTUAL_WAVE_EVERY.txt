@@ -1,0 +1,4 @@
+# sweep VIRTUAL_WAVE_EVERY 2026-10-18T21:38:48
+VIRTUAL_WAVE_EVERY=1 | v1.Apex | TOT wins=41/80 acc=11% dealt=3026 taken=2978 enemyHit=408/3661 |  lm.Apex* score= 5528 ( 48,7%) surv= 1900 last= 380 bulletDmg= 2914 bonus= 332 ram= 1 1st=39 2nd=41 
+VIRTUAL_WAVE_EVERY=2 | v1.Apex | TOT wins=38/80 acc=12% dealt=3053 taken=3198 enemyHit=425/3634 |  lm.Apex* score= 6042 ( 51,7%) surv= 2100 last= 420 bulletDmg= 3106 bonus= 403 ram= 13 1st=42 2nd=38 
+VIRTUAL_WAVE_EVERY=4 | v1.Apex | TOT wins=39/80 acc=12% dealt=3128 taken=3225 enemyHit=425/3580 matched=411 |  lm.Apex* score= 5779 ( 49,1%) surv= 1950 last= 390 bulletDmg= 3062 bonus= 375 ram= 2 1st=39 2nd=41 
