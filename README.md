@@ -4,7 +4,7 @@ Robô de combate para o **[Robocode](https://robocode.sourceforge.io/) clássico
 
 [![CI](https://github.com/Rimuro-Sama/RoboCode/actions/workflows/ci.yml/badge.svg)](https://github.com/Rimuro-Sama/RoboCode/actions/workflows/ci.yml)
 
-> **Estado do CI:** os workflows estão no repositório, mas só passam a valer depois do primeiro push na branch `main` do GitHub. O badge acima mostra o resultado real a partir daí.
+> **Estado do CI:** verificado no GitHub. O workflow `CI` passou (build, 30 testes e jar publicado, em cerca de 46 s) e o `Benchmark` rodou até o fim com 10 rounds, publicando `resultados.md` e `resultados.csv` como artefato. O badge acima mostra sempre o resultado mais recente.
 
 ## O que tem aqui
 
@@ -81,9 +81,9 @@ O [relatório de testes](docs/RELATORIO_DE_TESTES.md) traz os experimentos compl
 - `mvn verify`: 30 testes passando em execuções repetidas.
 - Os testes detectam regressões: quebrei de propósito a fórmula de dano (2 testes falharam) e a política de tiro, fazendo o robô nunca atirar (3 testes de batalha falharam), e depois restaurei o código.
 - O conteúdo do `.jar` gerado roda uma batalha completa sozinho (10/10 contra `sample.Walls`).
+- Os dois workflows (`CI` e `Benchmark`) rodaram com sucesso no GitHub Actions.
 
 **Não verificado:**
-- **Os workflows do GitHub Actions ainda não rodaram no GitHub.** Os mesmos comandos funcionam localmente.
 - **O `.jar` não foi testado instalado numa instalação completa do Robocode** (só com o motor montado pelo Maven, que não consegue ler arquivos `.jar` na pasta de robôs).
 - Não foi testado contra robôs de ranking do RoboRumble, nem na interface gráfica, nem em máquinas mais lentas.
 
