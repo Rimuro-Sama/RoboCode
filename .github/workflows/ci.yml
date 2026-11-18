@@ -1,0 +1,40 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "21"
+          cache: maven
+
+      # Compila (bytecode Java 8), roda os testes unitarios e as batalhas de verificacao e empacota o robo.
+      - name: Build e testes
+        run: mvn -B verify
+
+      - name: Publicar o jar do robo
+        uses: actions/upload-artifact@v4
+        with:
+          name: cleitin-robot-jar
+          path: target/cleitin.Cleitin_O_BomDeGuerra_*.jar
+          if-no-files-found: error
+
+      - name: Publicar relatorios de teste (se algo falhar)
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: surefire-reports
+          path: target/surefire-reports
