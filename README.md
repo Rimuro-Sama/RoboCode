@@ -93,6 +93,10 @@ O [relatório de testes](docs/RELATORIO_DE_TESTES.md) traz os experimentos compl
 - Não há *bullet shadows* nem modelo do tipo de mira do adversário (veja "Melhorias futuras" no relatório técnico).
 - Os adversários de teste foram escritos por mim; contra robôs de alto nível o desempenho é desconhecido.
 
+## Licença
+
+[MIT](LICENSE): você pode usar, copiar e modificar este código, inclusive em projetos comerciais, mantendo o aviso de copyright. O código é fornecido sem garantia.
+
 ## Sobre o desenvolvimento
 
 Projeto pessoal de estudo, feito por mim com apoio do Claude Code para código, testes e revisão. As medições em `docs/` são de execuções reais; as decisões de projeto e os experimentos A/B são descritos nos relatórios.
